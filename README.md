@@ -20,3 +20,7 @@ Single page resume website built using pure HTML.
 ## Screenshot
 
 ![Resume](screenshots/resume.png)
+
+## Live Demo
+
+https://sanghita-seal.github.io/html-resume-assignment/
